@@ -85,7 +85,7 @@
     <source-file src="src/android/scanditsdk-community-android_3.5.2/libs/scanditsdk-barcodepicker-android-3.5.2.jar" target-dir="libs"/>
     <source-file src="src/android/scanditsdk-community-android_3.5.2/libs/armeabi/libscanditsdk-android-3.5.2.so" target-dir="libs/armeabi"/>
     <!-- copy Scandit SDK resources (images, beep) -->
-    <source-file src="src/android/scanditsdk-community-android_3.5.2/res/raw/beep.wav" target-dir="res/raw"/>
+
     <source-file src="src/android/scanditsdk-community-android_3.5.2/res/raw/poweredby2x.png" target-dir="res/raw"/>
     <source-file src="src/android/scanditsdk-community-android_3.5.2/res/raw/ic_btn_search.png" target-dir="res/raw"/>
     <source-file src="src/android/scanditsdk-community-android_3.5.2/res/raw/flashlight_turn_off_icon.png" target-dir="res/raw"/>
